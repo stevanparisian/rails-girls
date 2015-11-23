@@ -1,3 +1,3 @@
 # rails-girls
 learning Ruby
-i love music and programation :pizza:
+i love music and programation :pizza: 
